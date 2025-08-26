@@ -1,0 +1,3 @@
+displayName = Quest Fish Crafts
+author = SnakiestGoose
+version = 0.1
