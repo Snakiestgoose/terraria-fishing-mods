@@ -1,0 +1,214 @@
+﻿++Solution 'FishCrafting' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:FishCrafting.sln
+++FishCrafting
+i:{00000000-0000-0000-0000-000000000000}:FishCrafting
+++Dependencies
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:>942
+++Properties
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\properties\
+++Assets
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\assets\
+++Common
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\common\
+++Content
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\
+++Buffs
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\buffs\
+++FishyCarrot.cs
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\buffs\fishycarrot.cs
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\items\fishycarrot.cs
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\mounts\fishycarrot.cs
+++FishyCarrot.png
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\buffs\fishycarrot.png
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\items\fishycarrot.png
+++Items
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\items\
+++Accessories
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\items\accessories\
+++Placeable
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\items\placeable\
+++Furniture
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\items\placeable\furniture\
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\tiles\furniture\
+++FishOTronAquarium.cs
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\items\placeable\furniture\fishotronaquarium.cs
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\tiles\furniture\fishotronaquarium.cs
+++FishOTronAquarium.png
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\items\placeable\furniture\fishotronaquarium.png
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\tiles\furniture\fishotronaquarium.png
+++TestAquarium.cs
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\items\placeable\furniture\testaquarium.cs
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\tiles\furniture\testaquarium.cs
+++TestAquarium.png
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\items\placeable\furniture\testaquarium.png
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\tiles\furniture\testaquarium.png
+++Tools
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\items\tools\
+++Weapons
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\items\weapons\
+++CopperShortsword.cs
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\items\weapons\coppershortsword.cs
+++AnglerFish.cs
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\items\anglerfish.cs
+++AnglerFish.png
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\items\anglerfish.png
+++Mounts
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\mounts\
+++FishyCarrot_Back.png
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\mounts\fishycarrot_back.png
+++FishyCarrot_Front.png
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\mounts\fishycarrot_front.png
+++NPCs
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\npcs\
+++KarpBoss
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\npcs\karpboss\
+++Pets
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\pets\
+++ShineGoldie
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\pets\shinegoldie\
+++ShineGoldieBuff.cs
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\pets\shinegoldie\shinegoldiebuff.cs
+++ShineGoldieBuff.png
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\pets\shinegoldie\shinegoldiebuff.png
+++ShineGoldieItem.cs
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\pets\shinegoldie\shinegoldieitem.cs
+++ShineGoldieItem.png
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\pets\shinegoldie\shinegoldieitem.png
+++ShineGoldieProjectile.cs
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\pets\shinegoldie\shinegoldieprojectile.cs
+++ShineGoldieProjectile.png
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\pets\shinegoldie\shinegoldieprojectile.png
+++Projectiles
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\projectiles\
+++Tiles
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\tiles\
+++TestAquarium_OLD.png
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\content\tiles\furniture\testaquarium_old.png
+++Localization
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\localization\
+++build.txt
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\build.txt
+++description.txt
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\description.txt
+++FishCrafting.cs
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\fishcrafting.cs
+++icon.png
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\icon.png
+++README.md
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\readme.md
+++Analyzers
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:analyzers
+++Assemblies
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:assemblies
+++Frameworks
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:frameworks
+++Packages
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:packages
+++launchSettings.json
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\properties\launchsettings.json
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++tModLoader.CodeAssist
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\.nuget\packages\tmodloader.codeassist\0.1.5\analyzers\dotnet\cs\tmodloader.codeassist.dll
+++Basic.Reference.Assemblies.Net60
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\basic.reference.assemblies.net60\1.2.4\lib\netstandard2.0\basic.reference.assemblies.net60.dll
+++CsvHelper
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\csvhelper\2.0.0.0\csvhelper.dll
+++FNA
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\fna\1.0.0\fna.dll
+++Hjson
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\hjson\3.0.0\lib\netstandard1.3\hjson.dll
+++Humanizer
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\humanizer.core\2.2.0\lib\netstandard1.0\humanizer.dll
+++Ionic.Zip.Reduced
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\ionic.zip.reduced\1.9.1.8\ionic.zip.reduced.dll
+++log4net
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\log4net\2.0.8.0\log4net.dll
+++Microsoft.Bcl.AsyncInterfaces
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\microsoft.bcl.asyncinterfaces\6.0.0\lib\netstandard2.1\microsoft.bcl.asyncinterfaces.dll
+++Microsoft.Build.Locator
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\microsoft.build.locator\1.4.1\lib\netcoreapp2.0\microsoft.build.locator.dll
+++Microsoft.CodeAnalysis
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.common\4.2.0\lib\netcoreapp3.1\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.CSharp
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.csharp\4.2.0\lib\netcoreapp3.1\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.csharp.workspaces\4.2.0\lib\netcoreapp3.1\microsoft.codeanalysis.csharp.workspaces.dll
+++Microsoft.CodeAnalysis.FlowAnalysis.Utilities
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.flowanalysis.utilities\2.9.6\lib\netstandard1.3\microsoft.codeanalysis.flowanalysis.utilities.dll
+++Microsoft.CodeAnalysis.Workspaces
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.common\4.2.0\lib\netcoreapp3.1\microsoft.codeanalysis.workspaces.dll
+++Microsoft.CodeAnalysis.Workspaces.MSBuild
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.workspaces.msbuild\4.2.0\lib\netcoreapp3.1\microsoft.codeanalysis.workspaces.msbuild.dll
+++Microsoft.Win32.SystemEvents
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\microsoft.win32.systemevents\6.0.0\lib\net6.0\microsoft.win32.systemevents.dll
+++Mono.Cecil
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\mono.cecil\0.11.4\lib\netstandard2.0\mono.cecil.dll
+++Mono.Cecil.Mdb
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\mono.cecil\0.11.4\lib\netstandard2.0\mono.cecil.mdb.dll
+++Mono.Cecil.Pdb
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\mono.cecil\0.11.4\lib\netstandard2.0\mono.cecil.pdb.dll
+++Mono.Cecil.Rocks
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\mono.cecil\0.11.4\lib\netstandard2.0\mono.cecil.rocks.dll
+++MonoMod.RuntimeDetour
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\monomod.runtimedetour\22.5.31.2\lib\net5.0\monomod.runtimedetour.dll
+++MonoMod.Utils
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\monomod.utils\22.5.31.2\lib\net5.0\monomod.utils.dll
+++MP3Sharp
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\mp3sharp\1.0.0.0\mp3sharp.dll
+++Newtonsoft.Json
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\newtonsoft.json\12.0.0.0\newtonsoft.json.dll
+++NVorbis
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\nvorbis\0.10.0.3\nvorbis.dll
+++RailSDK.Net
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\railsdk.net\1.0.0.0\railsdk.net.dll
+++ReLogic
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\relogic\1.0.0\relogic.dll
+++Steamworks.NET
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\steamworks.net\20.1.0\lib\netstandard2.1\steamworks.net.dll
+++SteelSeriesEngineWrapper
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\steelseriesenginewrapper\1.0.0.0\steelseriesenginewrapper.dll
+++System.CodeDom
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\system.codedom\6.0.0\lib\net6.0\system.codedom.dll
+++System.Composition.AttributedModel
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\system.composition.attributedmodel\6.0.0\lib\net6.0\system.composition.attributedmodel.dll
+++System.Composition.Convention
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\system.composition.convention\6.0.0\lib\net6.0\system.composition.convention.dll
+++System.Composition.Hosting
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\system.composition.hosting\6.0.0\lib\net6.0\system.composition.hosting.dll
+++System.Composition.Runtime
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\system.composition.runtime\6.0.0\lib\net6.0\system.composition.runtime.dll
+++System.Composition.TypedParts
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\system.composition.typedparts\6.0.0\lib\net6.0\system.composition.typedparts.dll
+++System.Configuration.ConfigurationManager
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\system.configuration.configurationmanager\6.0.0\lib\net6.0\system.configuration.configurationmanager.dll
+++System.Diagnostics.PerformanceCounter
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\system.diagnostics.performancecounter\6.0.0\lib\net6.0\system.diagnostics.performancecounter.dll
+++System.Drawing.Common
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\system.drawing.common\6.0.0\lib\net6.0\system.drawing.common.dll
+++System.IO.Pipelines
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\system.io.pipelines\6.0.1\lib\net6.0\system.io.pipelines.dll
+++System.Reflection.MetadataLoadContext
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\system.reflection.metadataloadcontext\6.0.0\lib\net6.0\system.reflection.metadataloadcontext.dll
+++System.Security.Cryptography.ProtectedData
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\system.security.cryptography.protecteddata\6.0.0\lib\net6.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\system.security.permissions\6.0.0\lib\net6.0\system.security.permissions.dll
+++System.Windows.Extensions
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\system.windows.extensions\6.0.0\lib\net6.0\system.windows.extensions.dll
+++TerrariaHooks
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\terrariahooks\0.0.0.0\terrariahooks.dll
+++tModLoader
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\tmodloader.dll
+++tModPorter
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\tmodporter\1.0.0\tmodporter.dll
+++UtfUnknown
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:d:\program files (x86)\steamlibrary\steamapps\common\tmodloader\libraries\utf.unknown\2.5.0\lib\netcoreapp3.0\utfunknown.dll
+++Microsoft.NETCore.App
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:c:\users\aaron\documents\my games\terraria\tmodloader\modsources\fishcrafting\microsoft.netcore.app
+++tModLoader.CodeAssist (0.1.5)
+i:{76d7d6b7-cf62-4890-9d9a-d7f82b6b7cf7}:>999
